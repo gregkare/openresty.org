@@ -36,7 +36,7 @@ You need to install [pandoc](http://pandoc.org/) to your system. On Mac OS X, fo
 brew install pandoc
 ```
 
-You'll also need `perl` installed in your system for building the web site (not needed for serivce deployment though).
+You'll also need `perl` installed in your system for building the web site (not needed for service deployment though).
 
 ```bash
 cd v2/
